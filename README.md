@@ -1,1 +1,1 @@
-# plz turn to the 'issues' tab
+# 请点击上面 'issues' 页签区域查看课程记录。
