@@ -1,1 +1,1 @@
-# 请点击上方 'issues' 页签区域查看课程记录。
+# 点击 [查看](https://github.com/N-ZOO/share-record/issues)
